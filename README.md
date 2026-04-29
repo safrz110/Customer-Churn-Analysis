@@ -1,6 +1,7 @@
 Customer Churn Analysis | Telecom
 
  Overview
+ 
 Analyzed multi-month telecom customer data to identify early signals of churn and translate behavioral patterns into actionable retention strategies. The project focuses on **trend-based analysis and feature engineering** to uncover why customers disengage.
 
  Problem Statement
@@ -53,6 +54,7 @@ Performed targeted EDA to compare churn vs non-churn segments:
 * Demonstrates how simple behavioral features can drive decision-making without complex models
 
  Tech Stack
+ 
 Python • Pandas • NumPy • Matplotlib • Seaborn
 
  Extensions
@@ -61,20 +63,25 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 * Interactive dashboard (Streamlit)
 
 How to Run
+
 Clone the repository:
 git clone https://github.com/safrz110/Customer-Churn-Analysis
+
 Install dependencies:
 pip install -r requirements.txt
+
 Launch Jupyter Notebook:
 jupyter notebook
 
 Future Improvements
+
 Build predictive models for churn detection
 Create interactive dashboards (Streamlit/Power BI)
 Perform cohort and time-series analysis
 Enhance feature engineering with domain-specific insights
 
 Conclusion
+
 This project demonstrates how exploratory data analysis and feature engineering can uncover meaningful customer behavior patterns. The insights derived can help telecom companies proactively reduce churn and improve customer retention strategies.
 
  Author
