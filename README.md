@@ -62,7 +62,7 @@ Python • Pandas • NumPy • Matplotlib • Seaborn
 
 How to Run
 Clone the repository:
-git clone https://github.com/your-username/customer-churn-analysis
+git clone https://github.com/safrz110/Customer-Churn-Analysis
 Install dependencies:
 pip install -r requirements.txt
 Launch Jupyter Notebook:
