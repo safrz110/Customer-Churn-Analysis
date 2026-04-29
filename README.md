@@ -85,4 +85,5 @@ Conclusion
 This project demonstrates how exploratory data analysis and feature engineering can uncover meaningful customer behavior patterns. The insights derived can help telecom companies proactively reduce churn and improve customer retention strategies.
 
  Author
+ 
 Sarfaraz Ali
